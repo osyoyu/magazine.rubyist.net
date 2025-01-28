@@ -9,6 +9,8 @@ created_on: 2025-01-27
 
 {% include base.html %}
 
+test
+
 ## RegionalRubyKaigi レポート (xx) 東京Ruby会議12
 
 (ここに『はじめに』が入る）
